@@ -1,5 +1,5 @@
 # Network-Science-Exercise
-This repository contains a conceptual network similar to a mindmap of my (Tobias Thomi) visited lectures at the University of Bern. Each lecture has been categorized under one or more of the following core topics:
+This repository contains 4 Python scripits for the visualization of conceptual networks similar to a mindmap of my (Tobias Thomi) visited lectures at the University of Bern. Each lecture has been categorized under one or more of the following core topics:
     Hydrology,
     Natural Hazards,
     Spatial Planning,
