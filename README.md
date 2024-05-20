@@ -4,5 +4,5 @@ This repository contains a conceptual network similar to a mindmap of my (Tobias
     Natural Hazards,
     Spatial Planning,
     Methods,
-    and Management.
+    and Business Administration.
 The structure is designed to provide a interconnected overview of the subjects covered. 
